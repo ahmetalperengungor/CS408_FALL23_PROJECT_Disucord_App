@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CS408_PROJECT_DISUCORD_CLIENT", "CS408_PROJECT_DISUCORD_CLIENT\CS408_PROJECT_DISUCORD_CLIENT.csproj", "{E19EB187-CEA1-4AF7-AC37-20B37AA2A3FF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CS408_PROJECT_DISUCORD_DAL", "CS408_PROJECT_DISUCORD_DAL\CS408_PROJECT_DISUCORD_DAL.csproj", "{08838B94-DB99-4BD9-BDEF-E775137B26B8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E19EB187-CEA1-4AF7-AC37-20B37AA2A3FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E19EB187-CEA1-4AF7-AC37-20B37AA2A3FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E19EB187-CEA1-4AF7-AC37-20B37AA2A3FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E19EB187-CEA1-4AF7-AC37-20B37AA2A3FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08838B94-DB99-4BD9-BDEF-E775137B26B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08838B94-DB99-4BD9-BDEF-E775137B26B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08838B94-DB99-4BD9-BDEF-E775137B26B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08838B94-DB99-4BD9-BDEF-E775137B26B8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FB0471B6-785F-43C3-AB67-5779642C51F9}
+	EndGlobalSection
+EndGlobal
